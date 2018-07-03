@@ -1,0 +1,16 @@
+[
+{
+  "modid": "terevel",
+  "name": "Terevel",
+  "description": "Example placeholder mod.",
+  "version": "Alpha 0.0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MineLoad - Terevel"],
+  "credits": "MineLoad (Coding, Texturing); HyCraftHD (Tutoring); Terevel (Naming)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

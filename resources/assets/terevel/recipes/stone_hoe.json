@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ZZ",
+        " S",
+        " S"
+    ],
+    "key": {
+        "Z": {
+            "item": "terevel:stoneshard"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_hoe",
+        "data": 0
+    }
+}

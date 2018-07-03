@@ -1,0 +1,13 @@
+#CreativeTabs
+
+#Items
+item.test.name=Test
+item.stoneshard.name=Stoneshard
+item.stonehammer.name=Stone Hammer
+item.iceshard.name=Iceshard
+item.bucketice.name=Ice Bucket
+#Blocks
+tile.trv_main.name=Terevel
+tile.stonepath.name=Stone-Path
+tile.darkstonepath.name=Dark Stone-Path
+tile.glowstonepath.name=Glowstone-Path
